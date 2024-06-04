@@ -1,5 +1,5 @@
 export default function Welcome() {
     return (
-        <p>test</p>
+        <p>welcome</p>
     )
 }
