@@ -2,7 +2,7 @@
 export function App() {
   return (
     <div>
-      <p>test</p>
+      <p className="bg-red-200">test</p>
     </div>
   );
 }
